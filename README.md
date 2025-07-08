@@ -23,6 +23,11 @@
 3. Appends common password patterns (e.g. `@123`, `1995`, `!`)
 4. Saves all output to a `.txt` wordlist
 
+## 📸 Screenshot
+
+![Screenshot](screenshot.png)
+
+
 ---
 
 ## ⚡ Quick Start
