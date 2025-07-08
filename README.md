@@ -14,3 +14,5 @@ curl -L https://raw.githubusercontent.com/talhatariq708/wordsmith-password-gener
 
 wordsmith          # to generate the wordlist
 wordsmith-update   # to get the latest version
+
+📖 [Read the full Installation Guide](./INSTALLATION_GUIDE.txt)
