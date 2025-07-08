@@ -50,7 +50,7 @@ alias wordsmith='python3 ~/wordsmith-password-generator/main.py'
 alias wordsmith-update='cd ~/wordsmith-password-generator && git pull'
 source ~/.bashrc
 
-⚠️ Limitations
+## ⚠️ Limitations
 
     Does not crack or brute force anything by default
 
@@ -58,7 +58,7 @@ source ~/.bashrc
 
     You must test password lists responsibly
 
-🛡️ Legal & Ethical Disclaimer
+## 🛡️ Legal & Ethical Disclaimer
 
     This tool is for legal, educational, and research use only.
 
@@ -72,14 +72,14 @@ Using Wordsmith, you agree:
 
 📄 Full disclaimer: LEGAL_USE_ONLY.txt
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Talha Tariq
 🔗 GitHub: @talhatariq708
 📄 License: MIT License
 🛠️ Version: v1.0.0
 
-⭐ Like the Project?
+## ⭐ Like the Project?
 
 If Wordsmith helps you:
 
