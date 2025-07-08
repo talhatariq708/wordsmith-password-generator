@@ -7,3 +7,10 @@
 ---
 
 ## 📦 Full Installation Guide
+
+### ✅ Step 1 – One-Line Auto Install (Recommended)
+
+Paste this command into your terminal:
+
+```bash
+curl -L https://raw.githubusercontent.com/talhatariq708/wordsmith-password-generator/main/install.sh | bash
