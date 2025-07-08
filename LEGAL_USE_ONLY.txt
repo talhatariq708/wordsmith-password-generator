@@ -1,1 +1,10 @@
-This tool is for educational and ethical hacking purposes only. Do not use it to attack real systems without permission.
+## ⚠️ Legal & Ethical Disclaimer
+
+This tool is created strictly for **educational and legal cybersecurity purposes**.
+
+Do **NOT** use Wordsmith for:
+- Unauthorized access
+- Password cracking on real systems
+- Harming individuals or violating laws
+
+By using this project, you agree to the terms in [`LEGAL_USE_ONLY.txt`](./LEGAL_USE_ONLY.txt).
