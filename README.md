@@ -1,15 +1,16 @@
-# 🔐 Wordsmith – Smart Password Wordlist Generator for Ethical Hacking
+# 🔐 Wordsmith – Smart Password Wordlist Generator for Cybersecurity
 
-**Wordsmith** is a custom Python tool that generates realistic password wordlists using leetspeak, symbols, numbers, and year patterns — ideal for cybersecurity learning, CTFs, and pentesting labs.
+**Wordsmith** is a Python-based tool that generates smart, realistic password wordlists using base words, leetspeak mutations, numbers, symbols, and years — inspired by `rockyou.txt`.
+
+![Screenshot](screenshot.png)
 
 ---
 
-## ⚙️ One-Line Install
+## 🚀 One-Line Install
 
 ```bash
 curl -L https://raw.githubusercontent.com/talhatariq708/wordsmith-password-generator/main/install.sh | bash
 
-✅ Then run:
 
-wordsmith          # to generate passwords
-wordsmith-update   # to update your tool
+wordsmith          # to generate the wordlist
+wordsmith-update   # to get the latest version
