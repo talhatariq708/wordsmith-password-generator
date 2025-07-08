@@ -1,0 +1,3 @@
+v1.0.0 – Initial Public Release
+Created: July 2025
+Author: Talha Tariq
