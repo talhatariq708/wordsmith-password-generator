@@ -1,0 +1,75 @@
+===========================
+🔐 Wordsmith Installation Guide
+===========================
+
+Thank you for using Wordsmith – a smart password wordlist generator built for ethical hackers, CTF players, and cybersecurity learners.
+
+This guide will walk you through how to:
+✔️ Install Wordsmith
+✔️ Run the tool
+✔️ Update it with one command
+✔️ Customize it if needed
+
+--------------------------------
+📦 Step 1 – One-Line Installation
+--------------------------------
+
+Open your terminal and paste this command:
+
+curl -L https://raw.githubusercontent.com/talhatariq708/wordsmith-password-generator/main/install.sh | bash
+
+☑️ What this does:
+- Downloads the full project to your system in ~/wordsmith
+- Adds two terminal commands for easy use:
+   - `wordsmith` → to run the tool
+   - `wordsmith-update` → to pull the latest version from GitHub
+
+------------------------------------------------
+▶️ Step 2 – Run Wordsmith (Generate Wordlist)
+------------------------------------------------
+
+Once installed, just type:
+
+wordsmith
+
+☑️ This runs the main script and generates passwords in:
+~/wordsmith/output/wordlist.txt
+
+------------------------------------------------
+🔄 Step 3 – Update to Latest Version
+------------------------------------------------
+
+To update your tool anytime in the future, just run:
+
+wordsmith-update
+
+☑️ This will pull all new updates from the GitHub project and refresh your tool.
+
+----------------------------------------
+🛠️ Optional – Customize Your Base Words
+----------------------------------------
+
+You can edit the base word list in:
+
+~/wordsmith/samples.txt
+
+☑️ Just add or remove names, cities, birthdays, etc.
+☑️ These are the base words that Wordsmith will mutate.
+
+------------------------------------------------------
+⚠️ Legal Notice (Educational Use Only)
+------------------------------------------------------
+
+This tool is for educational purposes ONLY.
+Do not use it for unauthorized access or illegal activity.
+
+Full disclaimer: ~/wordsmith/LEGAL_USE_ONLY.txt
+
+--------------------------
+🧑‍💻 Author: Talha Tariq
+--------------------------
+
+GitHub: https://github.com/talhatariq708
+
+Licensed under: MIT License
+Version: See VERSION.txt
