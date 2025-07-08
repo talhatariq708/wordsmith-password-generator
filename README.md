@@ -6,13 +6,11 @@
 
 ---
 
-## 🚀 One-Line Install
+## 📦 Full Installation Guide
+
+### ✅ Step 1 – One-Line Install
+
+Paste this command into your terminal:
 
 ```bash
 curl -L https://raw.githubusercontent.com/talhatariq708/wordsmith-password-generator/main/install.sh | bash
-
-
-wordsmith          # to generate the wordlist
-wordsmith-update   # to get the latest version
-
-📖 [Read the full Installation Guide](./INSTALLATION_GUIDE.txt)
